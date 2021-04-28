@@ -10,4 +10,4 @@ Skills: HTML5, CSS3, JavaScript, ES6.
 <br><br>
 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/marcell-amaral/"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" style="width: 25px; height: 25px;"></a>
+<a href="https://www.linkedin.com/in/marcell-amaral/"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" width="50" height="50"></a>
